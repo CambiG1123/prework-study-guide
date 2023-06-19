@@ -33,3 +33,9 @@
     text-align: center;
     font-size: 30px;
    }
+   .card {
+    width: 80%;
+    margin: 40px auto;
+    border: 10px #123bd0;
+    box-shadow: 5px 10px #9d1ac1;
+  }
